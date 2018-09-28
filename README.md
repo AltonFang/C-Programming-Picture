@@ -1,2 +1,2 @@
 # huffman
-![fig](https://raw.githubusercontent.com/tom13133/my-repo./master/fig/Ball_Volume.png)
+![fig](https://github.com/AltonFang/huffman/blob/master/huffman.PNG)
